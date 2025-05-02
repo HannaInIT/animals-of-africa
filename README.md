@@ -10,3 +10,5 @@ All of them are native to Africa and are often seen as symbols of the wild savan
 * [Giraffe](./giraffe.md)
 
 * [Cheetah](./cheetah.md)
+
+* [Caracal](./caracal.md)
